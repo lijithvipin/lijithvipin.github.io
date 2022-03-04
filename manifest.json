@@ -1,11 +1,11 @@
 {
-    "name": "netflix",
+    "name": "Netflix",
     "short_name": "netflix",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Watch TV Shows Online, Watch Movies Online",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
